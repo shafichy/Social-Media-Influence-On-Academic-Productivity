@@ -21,7 +21,7 @@ This project investigates the impact of social media usage on the academic produ
 -   **Daily Usage:** Most users spend **4-5 hours** daily on social media.
 -   **Overall Impact:** The most common reported impact is **Neutral (171 users)**.
 
-## 🛠 Methodology & Models
+##  Methodology & Models
 
 The problem was approached as a **multi-class classification task**. Implemented models:
 
